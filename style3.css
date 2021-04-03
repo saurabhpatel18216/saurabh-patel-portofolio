@@ -1,0 +1,32 @@
+h1{
+    font-size: 50px;
+    background-color: greenyellow;
+}
+section {
+    display: block;
+}
+.banner img {
+    height: 400px;
+}
+.banner img {
+    min-width: 90%;
+    height: 400px;
+}
+section img {
+    max-width: 90%;
+}
+
+main img{
+    width: 10%;
+}
+
+form{
+    text-align: center;
+    margin: 2px;
+}
+a img{
+    width: 5%;
+}
+div{
+    background-color: purple;
+}
